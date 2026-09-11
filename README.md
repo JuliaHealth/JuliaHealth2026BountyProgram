@@ -2,6 +2,9 @@
 
 The JuliaHealth 2026 Bounty Program supports small, focused improvements to packages in the JuliaHealth ecosystem. The program is funded through a [NumFOCUS Small Development Grant](https://github.com/numfocus/small-development-grant-proposals/issues/59) and will award six bounties of USD 750 each.
 
+> [!WARNING]
+> **AI-assisted contributions:** AI-assisted coding is welcome, but we expect meaningful human involvement in design, technical review, and responsibility for the contribution. The goal of the bounty program is to find collaborators who will hopefully continue contributing to these packages. An entirely agent-led workflow without human technical involvement would therefore not be a good fit.
+
 ## How it works
 
 1. **Maintainers propose projects.** JuliaHealth package maintainers open an issue in this repository with a short description of the work, a link to the corresponding issue in their package, and clear expected outcomes.
