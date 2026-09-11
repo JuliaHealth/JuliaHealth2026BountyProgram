@@ -5,6 +5,9 @@ The JuliaHealth 2026 Bounty Program supports small, focused improvements to pack
 > [!WARNING]
 > **AI-assisted contributions:** AI-assisted coding is welcome, but we expect meaningful human involvement in design, technical review, and responsibility for the contribution. The goal of the bounty program is to find collaborators who will hopefully continue contributing to these packages. An entirely agent-led workflow without human technical involvement would therefore not be a good fit.
 
+> [!IMPORTANT]
+> **Applications are closed.** The program organizers are currently selecting the six funded projects. Results will be announced by September 15, 2026.
+
 ## How it works
 
 1. **Maintainers propose projects.** JuliaHealth package maintainers open an issue in this repository with a short description of the work, a link to the corresponding issue in their package, and clear expected outcomes.
@@ -15,11 +18,11 @@ The JuliaHealth 2026 Bounty Program supports small, focused improvements to pack
 ## Timeline
 All dates are in 2026.
 
-- **August 12–September 8:** Maintainers submit proposals and interested contributors comment on them.
-- **September 9–15:** Program organizers select the six funded projects.
-- **September 16–22:** Maintainers select a contributor for each project.
-- **September 23–October 13:** Selected contributors complete the required NumFOCUS contractor agreement.
-- **October 14–November 24:** Contributors complete the agreed work.
-- **November 25–December 8:** Maintainers review the work and contributors make any final corrections.
+- ✅ **August 12–September 8:** Proposals and expressions of interest — completed
+- 🔵 **September 9–15:** Project selection — current
+- ⚪ **September 16–22:** Contributor selection
+- ⚪ **September 23–October 13:** NumFOCUS contractor agreements
+- ⚪ **October 14–November 24:** Development
+- ⚪ **November 25–December 8:** Review and final corrections
 
 To receive the bounty, the agreed deliverables must be completed and accepted by the package maintainers no later than **December 8, 2026 (exact end date to be determined)**. After acceptance, the contributor may submit an invoice to NumFOCUS for the USD 750 bounty. Paid work may begin only after the contributor's contractor agreement has been fully executed.
