@@ -6,7 +6,7 @@ The JuliaHealth 2026 Bounty Program supports small, focused improvements to pack
 > **AI-assisted contributions:** AI-assisted coding is welcome, but we expect meaningful human involvement in design, technical review, and responsibility for the contribution. The goal of the bounty program is to find collaborators who will hopefully continue contributing to these packages. An entirely agent-led workflow without human technical involvement would therefore not be a good fit.
 
 > [!IMPORTANT]
-> **Applications are closed.** The program organizers are currently selecting the six funded projects. Results will be announced by September 15, 2026.
+> **Contributor selection is complete.** Contributors have been selected for all six funded projects. NumFOCUS contractor agreements are the next stage, scheduled for September 23–October 13, 2026. Paid work may begin only after the contributor's agreement has been fully executed.
 
 ## How it works
 
@@ -19,9 +19,9 @@ The JuliaHealth 2026 Bounty Program supports small, focused improvements to pack
 All dates are in 2026.
 
 - ✅ **August 12–September 8:** Proposals and expressions of interest — completed
-- 🔵 **September 9–15:** Project selection — current
-- ⚪ **September 16–22:** Contributor selection
-- ⚪ **September 23–October 13:** NumFOCUS contractor agreements
+- ✅ **September 9–15:** Project selection — completed
+- ✅ **September 16–22:** Contributor selection — completed
+- ➡️ **September 23–October 13:** NumFOCUS contractor agreements — next
 - ⚪ **October 14–November 24:** Development
 - ⚪ **November 25–December 8:** Review and final corrections
 
